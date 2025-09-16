@@ -1,0 +1,60 @@
+{
+  "category": "media-processing",
+  "created_date": "2025-09-15T22:48:57.280358",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "blender is a free and open-source 3D creation suite. Blender provides 3D creation suite",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/media-processing/blender",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/media-processing/blender",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.280382",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "blender",
+  "repository_url": "https://github.com/howtomgr/blender",
+  "spec_version": "2.0",
+  "subcategory": "media-processing",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "media-processing",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "blender Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/media-processing/blender"
+}
